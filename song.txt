@@ -6,3 +6,8 @@ Roses are Red.
 Black is Black.
 Come to my House.
 I'll sell some Crack
+
+Roses are grey.
+Violets are grey.
+I am a dog.
+
