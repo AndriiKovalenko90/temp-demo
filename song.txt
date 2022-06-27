@@ -2,18 +2,7 @@ the first string
 the second string
 the third string
 
-Roses are red
-Violets aren't blue
-I dont know 
-What to do
-
----------------------------
-
-Roses are red.
-Lemons are sour.
-Open your legs and give me an hour
-
-
-Blood is red
-Bruises are blue
-Don't say "no"...
+Roses are Red.
+Black is Black.
+Come to my House.
+I'll sell some Crack
